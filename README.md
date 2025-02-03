@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshsarvaiya
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning app development
+- 👀 I’m interested in web and app development, AI/ML, Software development
+- 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate with anybody who can teach me programming
 - 📫 you can reach me on twitter or LinkedIn
 
